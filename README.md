@@ -1,1 +1,28 @@
-I created this calculator using HTML, CSS, and JavaScript. It was from my initial web development projects when I was learning front-end development. It's so cool to see you, how you started from the basics, and now you are going to the next level. I have used JS internally in my HTML and not made a seprate file so that's why it's not showing on my github repo.
+# 🧮 JavaScript Calculator
+
+A clean and modern calculator built with HTML, CSS, and JavaScript — featuring a sleek dark UI with neumorphic styling.
+
+## 🚀 Features
+
+- Basic arithmetic operations: Addition, Subtraction, Multiplication, Division
+- Decimal point support
+- AC — Clear the entire display
+- DE — Delete the last entered character
+- = — Evaluate the expression
+- Double zero (00) button for convenience
+- Responsive centered layout
+- Neumorphic dark theme with glowing shadows
+
+## 🗂️ Project Structure
+
+calculator/
+│
+├── index.html # App structure and button layout
+├── style.css # Styling and layout (dark theme)
+└── script.js # Calculator logic and event handling
+
+## 🛠️ Technologies Used
+
+| HTML5
+| CSS3
+| JavaScript (ES6)
